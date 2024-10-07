@@ -7,10 +7,10 @@ This does, however, introduce complications of its own. Unity's 2D physics engin
 
 ## Controls
 
-Movement is controlled by WASD or the Arrow Keys.
+Movement is controlled by **WASD** or the **Arrow Keys**.
 
-Tab lets the Dwarf interact with objects.
+**Tab** lets the Dwarf interact with objects.
 
-Left clicking will cause the Dwarf to punch in the direction of the mouse cursor.
+**Left-click** will cause the Dwarf to punch in the direction of the mouse cursor.
 
-Escape opens the pause menu.
+**Escape** opens the pause menu.
